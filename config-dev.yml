@@ -1,4 +1,4 @@
 
 config:
- info: alibaba
+ info: "master branch,springCloud-config/config-dev.yml version=5"
 
